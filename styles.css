@@ -110,22 +110,12 @@ body {
 
 .welcome-panel,
 .pathways-panel {
+  background: var(--white);
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
-  border-left: 6px solid transparent;
-  border-right: 6px solid transparent;
+  border-left: 6px solid var(--teal);
+  border-right: 6px solid var(--teal);
   border-radius: 20px;
-
-  background:
-    linear-gradient(var(--white), var(--white)) padding-box,
-    linear-gradient(
-      180deg,
-      var(--teal),
-      var(--blue),
-      var(--purple),
-      var(--pink),
-      var(--gold)
-    ) border-box;
 }
 
 
