@@ -1,0 +1,758 @@
+/* =========================================================
+   Language, Learning & Cognition Lab
+   Site styles
+   ========================================================= */
+
+
+/* =========================================================
+   COLOR PALETTE
+   ========================================================= */
+
+:root {
+  --navy: #102b63;
+  --text: #36465d;
+  --muted: #667085;
+
+  --line: #e7ebf1;
+  --soft-line: #eef1f5;
+
+  --page: #f8fafc;
+  --white: #ffffff;
+
+  --link: #376fc4;
+  --link-hover: #102b63;
+
+  --teal: #10cbb6;
+  --blue: #2797ed;
+  --purple: #7357de;
+  --pink: #ef4e8b;
+  --gold: #f5b82c;
+}
+
+
+/* =========================================================
+   BASIC PAGE STYLING
+   ========================================================= */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--text);
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+  line-height: 1.65;
+}
+
+
+/* =========================================================
+   NAVIGATION
+   ========================================================= */
+
+.navbar {
+  background: rgba(255, 255, 255, 0.98) !important;
+  border-bottom: 1px solid var(--line);
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+}
+
+.navbar .container-fluid {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.navbar-brand {
+  color: var(--navy) !important;
+  font-weight: 650;
+  font-size: 1.05rem;
+  letter-spacing: -0.01em;
+}
+
+.navbar-nav .nav-link {
+  color: var(--navy) !important;
+  font-weight: 550;
+  margin-left: 0.7rem;
+  padding-left: 0.45rem !important;
+  padding-right: 0.45rem !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--link) !important;
+}
+
+.navbar-nav .nav-link.active {
+  color: var(--navy) !important;
+  border-bottom: 2px solid var(--teal);
+}
+
+
+/* =========================================================
+   HOMEPAGE
+   ========================================================= */
+
+.home-shell {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 1.25rem 1.5rem 3rem;
+}
+
+
+/* ---------- Homepage panels ---------- */
+
+.welcome-panel,
+.pathways-panel {
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-radius: 20px;
+
+  background:
+    linear-gradient(var(--white), var(--white)) padding-box,
+    linear-gradient(
+      180deg,
+      var(--teal),
+      var(--blue),
+      var(--purple),
+      var(--pink),
+      var(--gold)
+    ) border-box;
+}
+
+
+/* ---------- Welcome panel ---------- */
+
+.welcome-panel {
+  padding: 1.6rem 3rem 1.9rem;
+  text-align: center;
+}
+
+.home-logo {
+  max-width: 265px;
+  margin: 0 auto 1rem;
+}
+
+.home-logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.welcome-panel h3 {
+  margin: 0 0 1.15rem;
+  color: var(--navy);
+  font-size: clamp(1.45rem, 2vw, 1.85rem);
+  line-height: 1.3;
+  font-weight: 650;
+}
+
+.welcome-panel > p {
+  max-width: 890px;
+  margin: 0 auto;
+  color: var(--text);
+  font-size: 1.08rem;
+  line-height: 1.65;
+  text-align: center;
+}
+
+
+/* ---------- Pathways panel ---------- */
+
+.pathways-panel {
+  margin-top: 2rem;
+  padding: 1rem 3rem;
+}
+
+.pathways-panel p {
+  max-width: 930px;
+  margin: 0 auto;
+  padding: 0.75rem 0;
+  color: var(--text);
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.pathways-panel p + p {
+  border-top: 1px solid var(--soft-line);
+}
+
+
+/* =========================================================
+   PEOPLE PAGE
+   ========================================================= */
+
+.people-page {
+  max-width: 1060px;
+  margin: 0 auto;
+  padding: 1.75rem 1.5rem 4rem;
+}
+
+
+/* ---------- Section headings ---------- */
+
+.people-page > h2 {
+  color: var(--navy);
+  font-size: 1.7rem;
+  font-weight: 650;
+  margin: 3.5rem 0 1.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--line);
+}
+
+
+/* ---------- Individual people ---------- */
+
+.person-card {
+  display: grid;
+  grid-template-columns: 250px minmax(0, 1fr);
+  gap: 2.75rem;
+  align-items: start;
+  margin-bottom: 3.5rem;
+}
+
+.pi-card {
+  margin-top: 0;
+  margin-bottom: 4rem;
+}
+
+
+/* ---------- Photos ---------- */
+
+.person-photo {
+  margin: 0;
+  padding: 0;
+}
+
+.person-photo img {
+  display: block;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  margin: 0;
+}
+
+
+/* ---------- Person text ---------- */
+
+.person-info {
+  margin: 0;
+  padding: 0;
+}
+
+.person-info h3 {
+  color: var(--navy);
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0 0 0.2rem;
+}
+
+.pronouns {
+  display: block;
+  color: var(--muted);
+  margin-bottom: 1.25rem;
+}
+
+.person-info p {
+  margin: 0 0 1rem;
+  line-height: 1.6;
+}
+
+
+/* ---------- Academic/profile links ---------- */
+
+.person-links {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  margin-top: 1.35rem;
+}
+
+.person-links a {
+  line-height: 1;
+}
+
+.person-links i {
+  font-size: 1.15rem;
+  vertical-align: middle;
+}
+
+.link-divider {
+  color: #a6adb8;
+  font-weight: 400;
+}
+
+
+/* =========================================================
+   JOIN THE LAB PAGE
+   ========================================================= */
+
+.join-page {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem 4rem;
+}
+
+.join-accordion {
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--line);
+  border-left: 6px solid var(--teal);
+  border-radius: 16px;
+  background: var(--white);
+  overflow: hidden;
+}
+
+.join-accordion summary {
+  cursor: pointer;
+  list-style: none;
+  position: relative;
+
+  padding: 1.35rem 1.5rem;
+
+  color: var(--navy);
+  font-size: 1.25rem;
+  font-weight: 650;
+}
+
+.join-accordion summary::-webkit-details-marker {
+  display: none;
+}
+
+.join-accordion summary::after {
+  content: "+";
+  position: absolute;
+  right: 1.5rem;
+  top: 50%;
+
+  transform: translateY(-50%);
+
+  color: var(--blue);
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.join-accordion[open] summary::after {
+  content: "–";
+}
+
+.join-accordion[open] summary {
+  border-bottom: 1px solid var(--line);
+}
+
+.join-content {
+  padding: 1.5rem 1.75rem 1.75rem;
+}
+
+.join-content h3 {
+  color: var(--navy);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.join-content p,
+.join-content li {
+  line-height: 1.65;
+}
+
+
+/* =========================================================
+   PUBLICATIONS PAGE
+   ========================================================= */
+
+.publications-page {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem 4rem;
+}
+
+.publications-page > h1 {
+  color: var(--navy);
+  font-size: 2rem;
+  margin: 0 0 0.5rem;
+}
+
+.publication-note {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-bottom: 2.5rem;
+}
+
+.publications-page > h2 {
+  color: var(--navy);
+  font-size: 1.5rem;
+  font-weight: 650;
+
+  margin: 3rem 0 1.4rem;
+  padding-bottom: 0.5rem;
+
+  border-bottom: 1px solid var(--line);
+}
+
+.publications-page p {
+  margin: 0 0 1.15rem;
+  line-height: 1.6;
+}
+
+
+/* ---------- Publication resource links ---------- */
+
+.publications-page p a {
+  display: inline-block;
+  margin-left: 0.2rem;
+  padding: 0.08rem 0.42rem;
+
+  color: var(--link);
+  background: #f7f9fc;
+  border: 1px solid #dfe6ef;
+  border-radius: 5px;
+
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.publications-page p a:hover {
+  color: var(--navy);
+  background: #f0f5fa;
+  border-color: #bfcddd;
+}
+
+
+/* =========================================================
+   RESEARCH PAGE
+   ========================================================= */
+
+.research-page {
+  max-width: 1060px;
+  margin: 0 auto;
+  padding: 1.75rem 1.5rem 4rem;
+}
+
+
+/* ---------- Research topics ---------- */
+
+.research-topic {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 250px;
+  gap: 3.5rem;
+  align-items: center;
+
+  padding: 2.75rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.research-topic:first-child {
+  padding-top: 1rem;
+}
+
+.research-topic:last-child {
+  border-bottom: none;
+}
+
+
+/* ---------- Research text ---------- */
+
+.research-copy h2 {
+  color: var(--navy);
+  font-size: 1.65rem;
+  font-weight: 650;
+  line-height: 1.25;
+  margin: 0 0 1rem;
+}
+
+.research-copy p {
+  margin: 0;
+  color: var(--text);
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+
+/* ---------- Research images ---------- */
+
+.research-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.research-image img {
+  display: block;
+  width: 250px;
+  height: 250px;
+
+  object-fit: cover;
+  object-position: center;
+
+  border-radius: 50%;
+  margin: 0;
+}
+
+
+/* =========================================================
+   SHARED STANDARD LINKS
+   ========================================================= */
+
+.pathways-panel a,
+.person-links a,
+.join-content a {
+  color: var(--link);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.pathways-panel a:hover,
+.person-links a:hover,
+.join-content a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+.nav-footer {
+  background: var(--white);
+  border-top: 1px solid var(--line);
+
+  color: #59677a;
+  font-size: 0.9rem;
+
+  padding-top: 1.6rem;
+  padding-bottom: 1.6rem;
+}
+
+.nav-footer strong {
+  color: var(--navy);
+}
+
+
+/* =========================================================
+   RESPONSIVE: SMALL LAPTOPS / TABLETS
+   ========================================================= */
+
+@media (max-width: 900px) {
+
+  .home-shell {
+    padding: 1rem 1.25rem 2.5rem;
+  }
+
+  .welcome-panel {
+    padding: 1.5rem 2rem 1.75rem;
+  }
+
+  .pathways-panel {
+    padding: 0.9rem 2rem;
+  }
+
+  .home-logo {
+    max-width: 245px;
+  }
+
+}
+
+
+/* =========================================================
+   RESPONSIVE: TABLETS
+   ========================================================= */
+
+@media (max-width: 800px) {
+
+  /* People */
+
+  .people-page {
+    padding: 1.5rem 1.25rem 3rem;
+  }
+
+  .person-card {
+    grid-template-columns: 190px minmax(0, 1fr);
+    gap: 1.75rem;
+  }
+
+  .person-photo img {
+    width: 190px;
+    height: 190px;
+  }
+
+
+  /* Research */
+
+  .research-topic {
+    grid-template-columns: minmax(0, 1fr) 190px;
+    gap: 2rem;
+  }
+
+  .research-image img {
+    width: 190px;
+    height: 190px;
+  }
+
+}
+
+
+/* =========================================================
+   RESPONSIVE: PHONES
+   ========================================================= */
+
+@media (max-width: 600px) {
+
+  /* Navigation */
+
+  .navbar .container-fluid {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+
+  /* Homepage */
+
+  .home-shell {
+    padding: 0.75rem 0.8rem 2rem;
+  }
+
+  .welcome-panel,
+  .pathways-panel {
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-radius: 15px;
+  }
+
+  .welcome-panel {
+    padding: 1.25rem 1.25rem 1.5rem;
+  }
+
+  .pathways-panel {
+    margin-top: 1.25rem;
+    padding: 0.7rem 1.25rem;
+  }
+
+  .home-logo {
+    max-width: 210px;
+    margin-bottom: 0.85rem;
+  }
+
+  .welcome-panel h3 {
+    margin-bottom: 0.9rem;
+    font-size: 1.35rem;
+  }
+
+  .welcome-panel > p,
+  .pathways-panel p {
+    font-size: 1rem;
+  }
+
+  .pathways-panel p {
+    padding: 0.65rem 0;
+  }
+
+
+  /* Join the Lab */
+
+  .join-page {
+    padding: 1rem 0.8rem 2.5rem;
+  }
+
+  .join-accordion {
+    border-left-width: 4px;
+    border-radius: 14px;
+  }
+
+  .join-accordion summary {
+    padding: 1.1rem 3.2rem 1.1rem 1.25rem;
+    font-size: 1.1rem;
+  }
+
+  .join-content {
+    padding: 1.25rem;
+  }
+
+
+  /* Publications */
+
+  .publications-page {
+    padding: 1rem 1rem 2.5rem;
+  }
+
+  .publications-page > h1 {
+    font-size: 1.75rem;
+  }
+
+  .publications-page > h2 {
+    font-size: 1.3rem;
+    margin-top: 2.5rem;
+  }
+
+
+  /* Research */
+
+  .research-page {
+    padding: 1rem 1rem 2.5rem;
+  }
+
+  .research-topic {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding: 2rem 0;
+  }
+
+  .research-image {
+    justify-content: flex-start;
+  }
+
+  .research-image img {
+    width: 200px;
+    height: 200px;
+  }
+
+  .research-copy h2 {
+    font-size: 1.4rem;
+  }
+
+  .research-copy p {
+    font-size: 1rem;
+  }
+
+}
+
+
+/* =========================================================
+   RESPONSIVE: SMALL PHONES
+   ========================================================= */
+
+@media (max-width: 575px) {
+
+  .people-page {
+    padding: 1.25rem 1rem 2.5rem;
+  }
+
+  .person-card {
+    grid-template-columns: 1fr;
+    gap: 1.1rem;
+    margin-bottom: 2.75rem;
+  }
+
+  .person-photo img {
+    width: 220px;
+    height: 220px;
+  }
+
+  .people-page > h2 {
+    margin-top: 2.75rem;
+  }
+
+}

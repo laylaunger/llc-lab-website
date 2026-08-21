@@ -1,0 +1,59 @@
+---
+pagetitle: "Join the Lab"
+page-layout: full
+---
+
+:::: {.join-page}
+
+<details class="join-accordion">
+
+<summary>Prospective Graduate Students</summary>
+
+<div class="join-content">
+
+I am accepting applications from prospective graduate students to join the lab in **Fall 2027** (application deadline: **December 1, 2026**).
+
+I welcome prospective students with interests in language learning, concept learning, developmental changes in attention and memory, and related topics. Graduate research in the lab can involve a combination of behavioral studies with children and adults, eye tracking, and/or Natural Language Processing. Check out the [Research](research.qmd) page and browse some of our [Publications](publications.qmd) to get a sense of the kinds of questions you could explore.
+
+Please feel free to email me if you are thinking of applying. I would especially like to know what sparks your interest in the lab, what kinds of research you would want to pursue, and how those future goals connect with your prior experience.
+
+### How to Apply
+
+Graduate students in the LLC Lab are admitted through the [PhD program in Psychological Science](https://artsandsciences.louisville.edu/psychological-and-brain-sciences/graduate) at the University of Louisville.
+
+Before applying, please review the Department's [graduate admissions information](https://artsandsciences.louisville.edu/psychological-and-brain-sciences/graduate/graduate-admissions) and complete the [University of Louisville online graduate application](https://apply.graduate.louisville.edu/apply/). Please note that for your application, you will need:
+
+1. **Official transcripts** from all colleges and universities you have attended, submitted to the Office of Graduate Admissions.
+
+2. **Three letters of recommendation.** You will provide contact information for three academic recommenders who can speak to your qualifications. Please contact the people you would like to request letters from before submitting your application.
+
+3. **Preferred faculty mentors.** You will be asked to rank up to three potential faculty mentors in the Department of Psychological & Brain Sciences. If you are applying to join the LLC Lab, include Dr. Unger among your preferred mentors.
+
+4. **A current Curriculum Vitae (CV).**
+
+5. **A 2–3 page personal statement** describing your background, research experience and interests, and career goals. Your statement should explain how your experiences have led you to pursue a PhD in psychological science and why the University of Louisville program — including the faculty member or members you hope to work with — is a good fit for your interests and goals.
+
+6. **Responses to two application prompts** addressing areas such as leadership, community engagement, resilience and adaptability, accountability, self-motivation, capacity for self-improvement, and inclusive excellence.
+
+7. **English-language proficiency documentation, if required.** Please review the Graduate School's current requirements and submit any required scores.
+
+</div>
+
+</details>
+
+
+<details class="join-accordion">
+
+<summary>Prospective Research Assistants</summary>
+
+<div class="join-content">
+
+I welcome interest from motivated and responsible undergraduate students who would like to get involved in research in the lab.
+
+To apply, please fill out this [quick application](YOUR-GOOGLE-FORM-URL).
+
+</div>
+
+</details>
+
+::::

@@ -1,0 +1,100 @@
+---
+pagetitle: "Publications"
+page-layout: full
+---
+
+:::: {.publications-page}
+
+# Publications
+
+<div class="publication-note">
+\* Equal authorship &nbsp;&nbsp; † Mentored student
+</div>
+
+
+## Journal Articles
+
+Unger, L. & Sloutsky, V. M. (2025). Dynamics of learning words from context. *Journal of Experimental Psychology: General, 154*, 1784. [pdf](https://eprints.whiterose.ac.uk/id/eprint/232744/1/Unger_Sloutsky_JEP_General_2025.pdf) [data/scripts](https://osf.io/2prvy/)
+
+Unger, L., Chang, T., Bergen, B. K., Savic, O., & Sloutsky, V. M. (2024). When is a word in good company for learning? *Developmental Science, 27*, e13510. [accepted version](https://doi.org/10.31234/osf.io/hv87p) [data/scripts](https://osf.io/xuh3y/)
+
+Weichart, E., Unger, L., King, N., Sloutsky, V. M., & Turner, B. M. (2024). ‘The eyes are the window to the representation’: Linking gaze to memory precision and decision weights in object discrimination tasks. *Psychological Review, 131*, 1045. [accepted version](https://osf.io/preprints/psyarxiv/t9uyv)
+
+Unger, L., Yim, H., Savic, O., Dennis, S., & Sloutsky, V. M. (2023). No frills: Simple regularities in language can go a long way in the development of word knowledge. *Developmental Science, 26*, e13373. [pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1111/desc.13373) [accepted version](https://www.researchgate.net/publication/367117503_No_frills_Simple_regularities_in_language_can_go_a_long_way_in_the_development_of_word_knowledge) [data/scripts](https://osf.io/5qajs/)
+
+Unger, L. & Sloutsky, V. M. (2022). Category learning is shaped by the multifaceted development of selective attention. *Journal of Experimental Child Psychology, 226*, 105549. [full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10276342/) [accepted version](https://www.researchgate.net/publication/363157057_Category_learning_is_shaped_by_the_multifaceted_development_of_selective_attention) [data/scripts](https://osf.io/8db62/)
+
+Savic, O.\*, Unger, L.\* & Sloutsky, V. M. (2022). Experience and maturation: The contribution of co-occurrence regularities in language to the development of semantic organization. *Child Development, 94*, 142–158. [full text](https://onlinelibrary.wiley.com/doi/10.1111/cdev.13844) [accepted version](https://www.researchgate.net/publication/362266947_Experience_and_maturation_The_contribution_of_co-occurrence_regularities_in_language_to_the_development_of_semantic_organization) [data/scripts](https://osf.io/6bvcq/)
+
+Unger, L. & Sloutsky, V. M. (2022). Ready to learn: Incidental exposure fosters category learning. *Psychological Science, 33*, 999–1019. [full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC9343890/) [accepted version](https://doi.org/10.31234/osf.io/hxyc5) [data/scripts](https://osf.io/jrtfn/)
+
+Savic, O.\*, Unger, L.\* & Sloutsky, V. M. (2022). Exposure to co-occurrence regularities in language drives semantic integration of new words. *Journal of Experimental Psychology: Learning, Memory and Cognition*. [full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10243553/) [accepted version](https://psyarxiv.com/p23z6) [data/scripts](https://osf.io/dt84u/)
+
+Unger, L. & Fisher, A. V. (2021). The emergence of richly organized semantic knowledge from simple statistics: A synthetic review. *Developmental Review, 60*, 100949. [pdf](https://par.nsf.gov/servlets/purl/10343449) [accepted version](https://pmc.ncbi.nlm.nih.gov/articles/PMC8026144/) [doi](https://doi.org/10.1016/j.dr.2021.100949)
+
+Unger, L., Vales, C., & Fisher, A. V. (2020). The role of co-occurrence statistics in developing semantic knowledge. *Cognitive Science, 44*, e12894. [pdf](https://drive.google.com/file/d/1NB2_MXUyWLK4PkVyEL9DIg935dqFtEM0/view?usp=sharing) [accepted version](https://www.researchgate.net/publication/344270182_The_Role_of_Co-Occurrence_Statistics_in_Developing_Semantic_Knowledge) [data/scripts](https://osf.io/9de7p/) [doi](https://doi.org/10.1111/cogs.12894)
+
+Unger, L., Savic, O., & Sloutsky, V. M. (2020). Statistical regularities shape semantic organization throughout development. *Cognition, 198*, 104190. [accepted version](https://www.researchgate.net/publication/338497829_Statistical_Regularities_Shape_Semantic_Organization_throughout_Development) [data/scripts](https://osf.io/ecm9u/) [doi](https://doi.org/10.1016/j.cognition.2020.104190)
+
+Unger, L., & Fisher, A. V. (2019). Rapid, experience-related changes in the organization of children’s semantic knowledge. *Journal of Experimental Child Psychology, 179*, 1–22. [accepted version](https://www.researchgate.net/publication/329192121_Rapid_Experience-Related_Changes_in_the_Organization_of_Children%27s_Semantic_Knowledge) [doi](https://doi.org/10.1016/j.jecp.2018.10.007)
+
+Unger, L., Fisher, A. V., Nugent, R., Ventura, S., & MacLellan, C. (2016). Developmental changes in semantic knowledge organization. *Journal of Experimental Child Psychology, 146*, 202–222. [accepted version](https://www.researchgate.net/publication/297897909_Developmental_changes_in_semantic_knowledge_organization) [doi](https://doi.org/10.1016/j.jecp.2016.01.005)
+
+Fisher, A. V., Godwin, K. E., Matlen, B. J., & Unger, L. (2014). Development of category-based induction and semantic knowledge. *Child Development, 86*, 48–62.
+
+
+## Selected Peer-Reviewed Conference Proceedings
+
+Unger, L., Savic, O., & Sloutsky, V. M. (2025). Building interconnected networks of word knowledge over time. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*, San Francisco, CA, USA. [pdf](https://escholarship.org/uc/item/0g36765h)
+
+
+Unger, L., & James, E. (2025). Do young children learn words from the company they keep? *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*, San Francisco, CA, USA. [pdf](https://escholarship.org/uc/item/34x7w37k)
+
+
+
+Unger, L. & Sloutsky, V. M. (2024). Dynamic processes of word learning from context. *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*, Rotterdam, Netherlands. [pdf](https://escholarship.org/uc/item/7mh7j94t)
+
+Unger, L., Weichart, E. R., & Sloutsky, V. M. (2023). Without even trying: How incidental exposure shapes category learning. *Proceedings of the 45th Annual Meeting of the Cognitive Science Society*, Virtual. [pdf](https://escholarship.org/uc/item/6t53399j)
+
+Unger, L., Ralston, R., Wan, Q., Gao, M., & Savic, O. (2022). Delineating prediction mechanisms for word learning from context. *Proceedings of the Second International Conference on Error-Driven Learning in Language*, Virtual/Tübingen, Germany. [pdf](https://doi.org/10.31234/osf.io/2eay3)
+
+Unger, L. & Sloutsky, V. M. (2021). Category learning is shaped by the multifaceted development of selective attention. *Proceedings of the 43rd Annual Meeting of the Cognitive Science Society*, Virtual/Vienna, Austria. [pdf](https://www.researchgate.net/publication/353463646_Category_Learning_is_Shaped_by_the_Multifaceted_Development_of_Selective_Attention)
+
+Unger, L., Savic, O., & Sloutsky, V. M. (2020). Environmental regularities shape semantic organization throughout development. *Proceedings of the 42nd Annual Meeting of the Cognitive Science Society*, Virtual/Toronto, Ontario, CA. [pdf](https://escholarship.org/uc/item/68q5b1cn)
+
+Unger, L., & Sloutsky, V. M. (2019). Simple mechanisms, rich structure: Statistical co-occurrence regularities in language shape the development of semantic knowledge. *Proceedings of the 41st Annual Meeting of the Cognitive Science Society*, Montreal, Quebec, CA. [pdf](https://www.researchgate.net/publication/343480849_Simple_Mechanisms_Rich_Structure_Statistical_Co-Occurrence_Regularities_in_Language_Shape_the_Development_of_Semantic_Knowledge)
+
+Savic, O., Unger, L., & Sloutsky, V. M. (2019). Rapid semantic integration of novel words following exposure to distributional regularities. *Proceedings of the 41st Annual Meeting of the Cognitive Science Society*, Montreal, Quebec, CA. [pdf](https://www.researchgate.net/publication/336024579_Rapid_Semantic_Integration_of_Novel_Words_Following_Exposure_to_Distributional_Regularities)
+
+Unger, L., & Sloutsky, V. M. (2018). Ready to learn: Predictive exposure to category-relevant regularities facilitates novel category learning. *Proceedings of the 40th Annual Meeting of the Cognitive Science Society*, Madison, WI, USA. [pdf](https://www.researchgate.net/publication/326693601_Ready_to_Learn_Predictive_Exposure_to_Category-Relevant_Regularities_Facilitates_Novel_Category_Learning)
+
+Unger, L., & Fisher, A. V. (2018). All creatures great and small: Category-relevant statistical regularities in children’s books. *Proceedings of the 40th Annual Meeting of the Cognitive Science Society*, Madison, WI, USA. [pdf](https://www.researchgate.net/publication/326693600_All_Creatures_Great_and_Small_Category-Relevant_Statistical_Regularities_in_Children%27s_Books)
+
+Unger, L., Fisher, A. V. (2017). Learning in the wild: Real-world experiences shape children’s knowledge organization. *Proceedings of the 39th Annual Meeting of the Cognitive Science Society*, London, UK. [pdf](https://www.researchgate.net/publication/319629385_Learning_in_the_Wild_Real-World_Experiences_Shape_Children%27s_Knowledge_Organization)
+
+Vales, C., Fisher, A. V., & Unger, L. (2017). Looking for the cat and seeing the dog: Using visual search to study semantic knowledge in children. *Proceedings of the 39th Annual Meeting of the Cognitive Science Society*, London, UK.
+
+Unger, L., Fisher, A. V. (2016). Semantic contamination of visual similarity judgments. *Proceedings of the 38th Annual Meeting of the Cognitive Science Society*, Philadelphia, PA, USA. [pdf](https://www.researchgate.net/publication/306099392_Semantic_Contamination_of_Visual_Similarity_Judgments)
+
+Unger, L., Kim, J., Badger, J., Fisher, A. V., & Huppert, T. J. (2016). The role of the prefrontal cortex in induction: An fNIRS study. *Proceedings of the 38th Annual Meeting of the Cognitive Science Society*, Philadelphia, PA, USA. [pdf](https://www.researchgate.net/publication/306099393_The_Role_of_the_Prefrontal_Cortex_in_Inductive_Reasoning_An_fNIRS_Study)
+
+Unger, L., Fisher, A. V., & MacLellan, C. (2014). Developmental changes in the semantic organization of living kinds. *Proceedings of the 36th Annual Meeting of the Cognitive Science Society*, Quebec City, Quebec, CA. [pdf](https://www.researchgate.net/publication/268802280_Developmental_Changes_in_the_Semantic_Organization_of_Living_Kinds)
+
+
+## Supervised Student Conference Presentations
+
+Granger, A.†, Unger, L., & Gomez, R. (2026). Connecting the dots: word-learning and semantic connectedness in 5-yr-olds. Poster presented at the Annual Meeting of the Cognitive Development Society, Montreal, Quebec, CA.
+
+Granger, A.†, Unger, L., & Sloutsky, V. M. (2023). Abstract and concrete word-learning from context in children. Poster presented at the Midwest Cognitive Science Conference, Grand Rapids, MI, USA.
+
+Reardon, N.†, Unger, L., & Sloutsky, V. M. (2023). Incidental exposure optimizes attention to features that are relevant to category membership. Talk and poster presented at the Annual Meeting of the Cognitive Neuroscience Society, San Francisco, CA, USA.
+
+Unger, L., Anilkumar, A.†, & Sloutsky, V. M. (2022). Learning new words from context. Poster presented at the Annual Meeting of the Psychonomic Society, Virtual/Boston, MA, USA.
+
+Vallampati, A.†, Unger, L., & Savic, O. (2020). The semantic network: The mechanisms that build organized word knowledge in development. Poster presented at the Annual Meeting of the Cognitive Science Society, Virtual/Toronto, Ontario, CA.
+
+Swenski, T.†, Unger, L., Savic, O., & Sloutsky, V. M. (2019). Co-occurrence regularities in language shape the development of semantic knowledge. Poster presented at the Biennial Conference of the Cognitive Development Society, Louisville, KY, USA.
+
+Unger, L., D’Emilia, W.†, & Fisher, A. V. (2015). Semantic development: The contribution of number of relations to representational similarity. Poster presented at the Biennial Meeting of the Society for Research in Child Development, Philadelphia, PA, USA.
+
+::::
