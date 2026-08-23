@@ -2,10 +2,13 @@ project:
   type: website
   output-dir: docs
   resources:
+    - CNAME
     - assets/cv/unger_cv.pdf
 
 website:
   title: "Language, Learning & Cognition Lab"
+  site-url: "https://llclab.org"
+  description: "The Language, Learning & Cognition Lab at the University of Louisville studies how developing minds learn from language and experience."
   search: false
 
   navbar:
