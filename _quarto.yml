@@ -10,6 +10,8 @@ website:
   site-url: "https://llclab.org"
   description: "The Language, Learning & Cognition Lab at the University of Louisville studies how developing minds learn from language and experience."
   search: false
+  favicon: assets/favicon/favicon.ico
+  open-graph: true
 
   navbar:
     background: white
