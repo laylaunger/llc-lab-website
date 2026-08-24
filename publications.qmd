@@ -1,5 +1,6 @@
 ---
-pagetitle: "Publications"
+pagetitle: "Publications | Language, Learning & Cognition Lab"
+description-meta: "Publications from Dr. Layla Unger and the Language, Learning & Cognition Lab on word learning, concept learning, category learning, semantic memory and cognitive development."
 page-layout: full
 ---
 

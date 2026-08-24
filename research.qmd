@@ -1,5 +1,6 @@
 ---
-pagetitle: "Research"
+pagetitle: "Research | Language, Learning & Cognition Lab"
+description-meta: "Research on cognitive development, language learning, category learning, concept learning, attention, prediction, and semantic memory."
 page-layout: full
 ---
 

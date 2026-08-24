@@ -1,5 +1,6 @@
 ---
-pagetitle: "People"
+pagetitle: "Dr. Layla Unger | Language, Learning & Cognition Lab"
+description-meta: "Dr. Layla Unger directs the Language, Learning & Cognition Lab in Psychological and Brain Sciences at the University of Louisville."
 page-layout: full
 ---
 

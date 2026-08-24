@@ -1,6 +1,7 @@
 ---
+pagetitle: "Language, Learning & Cognition Lab | University of Louisville"
+description-meta: "The Language, Learning & Cognition Lab at the University of Louisville studies how developing minds learn from language and experience."
 page-layout: full
-pagetitle: "Language, Learning & Cognition Lab"
 ---
 
 :::: {.home-shell}

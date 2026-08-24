@@ -1,5 +1,6 @@
 ---
-pagetitle: "Join the Lab"
+pagetitle: "Join the Lab | Language, Learning & Cognition Lab"
+description-meta: "Information for prospective graduate students and undergraduate research assistants interested in joining the Language, Learning & Cognition Lab at the University of Louisville."
 page-layout: full
 ---
 
