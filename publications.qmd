@@ -15,6 +15,9 @@ page-layout: full
 
 ## Journal Articles
 
+Unger, L. & James, E. (in press). Leveraging Word Knowledge from Everyday Language. *Psychonomic Bulletin & Review*. [pdf](https://osf.io/preprints/psyarxiv/p7j6k_v2) [data/scripts](https://osf.io/96kce)
+
+
 Unger, L. & Sloutsky, V. M. (2025). Dynamics of learning words from context. *Journal of Experimental Psychology: General, 154*, 1784. [pdf](https://eprints.whiterose.ac.uk/id/eprint/232744/1/Unger_Sloutsky_JEP_General_2025.pdf) [data/scripts](https://osf.io/2prvy/)
 
 Unger, L., Chang, T., Bergen, B. K., Savic, O., & Sloutsky, V. M. (2024). When is a word in good company for learning? *Developmental Science, 27*, e13510. [accepted version](https://doi.org/10.31234/osf.io/hv87p) [data/scripts](https://osf.io/xuh3y/)
